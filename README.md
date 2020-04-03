@@ -1,4 +1,4 @@
-Zachary Ikpefua | Clemson ECE 3220
+Zachary Ikpefua
 # Project 3: Memory Allocator 
 
 KNOWN PROBLEMS:
