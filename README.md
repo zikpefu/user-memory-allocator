@@ -1,5 +1,5 @@
 Zachary Ikpefua
-# Project 3: Memory Allocator 
+# User Libaray Allocator (malloc, calloc, realloc)
 
 KNOWN PROBLEMS:
 There is a problem that is causing my code to seg fault when I try to deference my freelist, this means somewhere within my code
